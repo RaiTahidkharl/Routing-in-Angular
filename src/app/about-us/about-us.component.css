@@ -1,0 +1,10 @@
+class{
+    text-align: center;
+    align-items: center;
+}
+h3{
+    border-color: blueviolet;
+}
+p{
+    border: 2px solid black;
+}
